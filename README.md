@@ -41,3 +41,9 @@ cd software-architecture-2018-2
 mvn package
 java -jar target/app2-1.0-SNAPSHOT.jar
 ```
+
+# Grupo de Arquitetura de Software 
+## Integrantes:
+- Eduardo Britto da Costa
+- Rodrigo Valente Bernardes
+- Yasmim Gouveia Martns 
